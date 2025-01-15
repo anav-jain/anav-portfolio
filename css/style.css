@@ -89,6 +89,7 @@ h1 {
 .home-img img {
     transition: outline 0.3s ease;
     animation: floatImage 4s ease-in-out infinite;
+    filter: drop-shadow(1px 1px 20px rgba(9, 164, 191, 0.737));
 }
 
 @keyframes floatImage {
