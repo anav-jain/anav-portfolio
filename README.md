@@ -85,8 +85,8 @@ The contact form uses JavaScript to handle form submissions. Ensure you have con
 ## Contact
 If you have any questions or feedback, feel free to reach out to me:
 
-- **Email:** work.anavjain6@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kartik-rasraj-8a8369244/)
+- **Email:** work.anavjain@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/anav-jain-7a2119306/
 
 
 Thank you for visiting my portfolio website!
